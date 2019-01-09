@@ -224,15 +224,11 @@ main .products article .descuento{
 	justify-content: space-between;
 }
 
-main .brand article{
-	
+.marcas{
+	padding-bottom: 40px;
+}
+.marcas .flex .brand{
 	border: 4px solid #ebebeb;
-	width: 10%;
-	padding: 10px;
-	line-height: 20px;
-
-    
-   
 }
 
 
