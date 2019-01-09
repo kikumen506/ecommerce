@@ -224,7 +224,16 @@ main .products article .descuento{
 	justify-content: space-between;
 }
 
+main .brand article{
+	
+	border: 4px solid #ebebeb;
+	width: 10%;
+	padding: 10px;
+	line-height: 20px;
 
+    
+   
+}
 
 
 /* FIN MAIN */
